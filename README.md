@@ -10,6 +10,10 @@ Make a shared state AJAX drawing program
 Contributors / Licensing
 ========================
 
+Collaboration: team members
+
+* qsong
+* pyu
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
